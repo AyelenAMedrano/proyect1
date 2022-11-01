@@ -1,0 +1,46 @@
+header div img{
+    height:30px;
+}
+
+.titulos{
+    text-align:center;
+}
+
+header div span{
+    color:violet;
+}
+
+header div nav{
+    color:pink;
+}
+
+ul{
+    list-style: none;
+    list-style-position:center;
+}
+
+#nav li{
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+    background-color:whitesmoke;
+}
+body{
+    font-family: Poppins;
+    background-image: url("../img/dino.png");
+}
+
+.articulo{
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgba(237, 160, 213, 0.8);
+}
+
+body footer{
+    text-align:right;
+}
+
+.parrafo{
+    margin-right: 20px;
+    margin-left: 20px;
+}
